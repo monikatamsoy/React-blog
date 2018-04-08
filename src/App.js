@@ -7,7 +7,9 @@ import Login from './components/pages/login'
 import './Assets/css/default.min.css';
 
 class App extends Component {
-  render() {
+  render()
+  window.localStorage.user = 0
+  {
     switch (window.location.pathname) {
       case "/":
       if (window.localStorage.user != 1) {
