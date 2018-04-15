@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
-import CarouselImage from '/Users/monikatamsoy/Desktop/React-Blog/blog-app/src/components/carousel.js';
-import Navbar from '/Users/monikatamsoy/Desktop/React-Blog/blog-app/src/components/navbar.js';
-import Blogs from '/Users/monikatamsoy/Desktop/React-Blog/blog-app/src/components/blog-card.js';
+import CarouselImage from './../carousel';
+import Navbar from './../navbar';
+import Blogs from './../blog-card';
 class Blog extends Component {
   render() {
     var date = new Date()
