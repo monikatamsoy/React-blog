@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Form from '/Users/monikatamsoy/Desktop/React-Blog/blog-app/src/components/form.js'
+import Form from './components/form'
 
 class Login extends Component {
   render() {
