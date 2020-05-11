@@ -16,4 +16,4 @@ This is a website where a user can login and view, add, edit, delete and rearran
   3. Start the server
     ` npm start`
   
-### You are good to go! Default port 3001. 
+### You are good to go! Default port 3000. 
